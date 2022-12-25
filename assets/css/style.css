@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 42vw;
+    margin: 10% auto;
+    text-align: center;
+    box-shadow: 10px 10px 10px grey;
+    background: rgb(242, 242, 242);
+    padding: 4%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    padding: 5%;
+    gap: 1vh;
+}
+
+p {
+    margin: 5% 0;
+}
